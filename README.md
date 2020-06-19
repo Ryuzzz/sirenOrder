@@ -15,3 +15,6 @@
   <li>제조 시스템이 비정상적이여도 주문은 받을 수 있다.(async)</li>
   <li>제조 상태가 확인되지 않을 때는 취소 요청을 보류한다.(circuit break)</li>
 </ol>
+
+<h1>모델</h1>
+<img src="https://user-images.githubusercontent.com/54231851/85090153-636c6580-b21f-11ea-8019-9b05dec163d1.PNG"/>
